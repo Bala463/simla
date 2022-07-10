@@ -29,6 +29,6 @@ public class JavaMathExample1
         System.out.println("exp of a is: " +Math.exp(x));    
           
         // return (a power of 2)-1  
-        System.out.println("expm1 of a is: " +Math.expm1(x));  
+        System.out.println("balaexpm1 of a is: " +Math.expm1(x));  
     }    
 }    
